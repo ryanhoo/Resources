@@ -4,7 +4,7 @@
   - [Text Kit](#text-kit)
   - [UITableView](#uitableview)
   - [Xcode](#xcode)
-- [Recommended Blogs & Developers](#recommended-blogs-&-developers)
+- [Recommended Blogs and Developers](#recommended-blogs-and-developers)
   - [[王巍](http://onevcat.com/)](#王巍httponevcatcom)
 
 ## Fundamentals
