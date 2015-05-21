@@ -1,4 +1,4 @@
-# iOS Learning Resources<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+# iOS Learning Resources
 
 - [Fundamentals](#fundamentals)
   - [Text Kit](#text-kit)
@@ -22,7 +22,7 @@
 - [带你深入xcode快捷键和Mac osX常用快捷键篇1，让你的效率飞起来](http://www.jianshu.com/p/7a9f9468e1e1?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 - [xcode快捷键第二弹之storyboard篇华丽来袭，让你加起约束快到自己都害怕](http://www.jianshu.com/p/b9d313c7dda0)
 
-## Recommended Blogs & Developers
+## Recommended Blogs and Developers
 
 ### [王巍](http://onevcat.com/)
 
