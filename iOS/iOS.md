@@ -1,6 +1,6 @@
 # iOS Learning Resources
 
-## iOS Fundamentals
+## Fundamentals
 
 ### Text Kit
 
@@ -17,6 +17,6 @@
 
 ## Recommended Blogs & Developers
 
-- [王巍](http://onevcat.com/)
+### [王巍](http://onevcat.com/)
 
-微博 ID “onevcat”，圈儿内人称喵神，知名 iOS/Unity 开发者，现居日本，就职于 LINE。喵神是 objc 中国项目发起人，开源过广受开发者喜爱的 Xcode 插件 VVDocumenter，主创或参与开发《姬骑士和最后的百龙战争》、《英雄 Slash》、《冒险谜题王国》以及《小熊推金币》等多款游戏，个人应用代表有《番茄工作法》(Pomodoro Do)和《云端记账》(Our Money)。
+微博 ID “onevcat”，圈儿内人称喵神，知名 iOS/Unity 开发者，现居日本，就职于 LINE。喵神是 objc 中国项目发起人，开源过广受开发者喜爱的 Xcode 插件 VVDocumenter，主创或参与开发《姬骑士和最后的百龙战争》、《英雄 Slash》、《冒险谜题王国》以及《小熊推金币》等多款游戏，个人应用代表有《番茄工作法》(Pomodoro Do) 和《云端记账》(Our Money)。
