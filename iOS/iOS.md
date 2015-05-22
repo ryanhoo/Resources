@@ -5,6 +5,7 @@
   - [UITableView](#uitableview)
   - [Storyboard](#storyboard)
   - [Xcode](#xcode)
+- [Collections](#collections)
 - [Recommended Blogs and Developers](#recommended-blogs-and-developers)
   - [[王巍](http://onevcat.com/)](#王巍httponevcatcom)
 
@@ -26,6 +27,10 @@
 
 - [带你深入 Xcode 快捷键和 MacOS X 常用快捷键篇 1，让你的效率飞起来](http://www.jianshu.com/p/7a9f9468e1e1?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 - [Xcode 快捷键第二弹之 Storyboard 篇华丽来袭，让你加起约束快到自己都害怕](http://www.jianshu.com/p/b9d313c7dda0)
+
+## Collections
+
+- [几个iOS工程通用模块介绍](http://www.jianshu.com/p/35ae342c60f6)
 
 ## Recommended Blogs and Developers
 
