@@ -7,6 +7,10 @@
 
 - [安卓中的Model-View-Presenter模式介绍](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0425/2782.html)
 
+## Gradle
+
+- [Publishing Gradle Android Library to jCenter Repository](https://www.virag.si/2015/01/publishing-gradle-android-library-to-jcenter/)
+
 ## Libraries
 
 - [Fresco](http://frescolib.org/)
