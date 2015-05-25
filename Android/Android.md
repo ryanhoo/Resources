@@ -9,7 +9,11 @@
 
 ## Gradle
 
+### Publishing
+
 - [Publishing Gradle Android Library to jCenter Repository](https://www.virag.si/2015/01/publishing-gradle-android-library-to-jcenter/)
+
+- [使用Gradle发布Android开源项目到JCenter](http://blog.csdn.net/maosidiaoxian/article/details/43148643)
 
 ## Libraries
 
