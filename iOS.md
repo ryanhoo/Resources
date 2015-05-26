@@ -34,6 +34,10 @@
 
 - [几个iOS工程通用模块介绍](http://www.jianshu.com/p/35ae342c60f6)
 
+## Advanced Readings
+
+- [iOS应用架构谈 开篇](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
+
 ## Recommended Blogs and Developers
 
 ### [王巍](http://onevcat.com/)
