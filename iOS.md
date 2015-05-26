@@ -18,6 +18,8 @@
 ### UITableView
 
 - [优化 UITableViewCell 高度计算的那些事](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)
+- [UITableView 优化 VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo)
+- [iOS Autulayout 教程](http://www.jianshu.com/users/96a14318a4de/latest_articles)
 
 ### Storyboard
 
