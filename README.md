@@ -6,6 +6,7 @@ These are learning resources to be handled.
 
 - [iOS](/iOS.md)
 - [Android](/Android.md)
+- [Git](/Git.md)
 - [Tools](/Tools.md)
 
 ## Advanced Readings
