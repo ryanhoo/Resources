@@ -29,6 +29,7 @@
 
 - [带你深入 Xcode 快捷键和 MacOS X 常用快捷键篇 1，让你的效率飞起来](http://www.jianshu.com/p/7a9f9468e1e1?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 - [Xcode 快捷键第二弹之 Storyboard 篇华丽来袭，让你加起约束快到自己都害怕](http://www.jianshu.com/p/b9d313c7dda0)
+- [【干货】Xcode 6 技巧: 矢量图像，代码片段以及其他](http://www.cocoachina.com/ios/20150521/11886.html)
 
 ## Collections
 
