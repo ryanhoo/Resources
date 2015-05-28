@@ -30,6 +30,11 @@
 
 - [Auto Layout 使用心得（一）—— 初体验](http://lvwenhan.com/ios/430.html)
 
+### Reveal
+
+- [Reveal Tutorial: Live View Debugging](http://www.raywenderlich.com/97174/reveal-tutorial-live-view-debugging)
+- [Inspecting iOS Applications with Reveal](http://code.tutsplus.com/tutorials/inspecting-ios-applications-with-reveal--cms-20354)
+
 ## Swift
 
 - [Swift 中的 UIDynamics](http://www.cocoachina.com/swift/20150528/11948.html)
