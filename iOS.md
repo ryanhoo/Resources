@@ -26,6 +26,10 @@
 
 - [一个Demo展示Storyboard的强大](http://www.jianshu.com/p/fa0d833673be)
 
+## Swift
+
+- [Swift 中的 UIDynamics](http://www.cocoachina.com/swift/20150528/11948.html)
+
 ## Xcode
 
 - [带你深入 Xcode 快捷键和 MacOS X 常用快捷键篇 1，让你的效率飞起来](http://www.jianshu.com/p/7a9f9468e1e1?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
