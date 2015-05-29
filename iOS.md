@@ -54,6 +54,7 @@
 
 - [iOS应用架构谈 开篇](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
 - [iOS应用架构谈 view层的组织和调用方案](http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html)
+- [iOS 中的设计模式 (Swift版本) Part 2](http://blog.callmewhy.com/2015/03/01/introducing-ios-design-patterns-in-swift-part-2/?comefrom=http://blogread.cn/news/)
 
 ## Recommended Blogs and Developers
 
