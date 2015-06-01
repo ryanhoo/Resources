@@ -14,3 +14,13 @@ Reveal brings powerful runtime view debugging to iOS developers. With advanced v
 
 - [Vim & Zsh]
   - [提高 Vim 和 Shell 效率的 9 个建议](http://blog.jobbole.com/86809/)
+
+- [Gitbook](https://www.gitbook.com)
+
+GitBook was created in the middle of 2014 with the vision of creating a modern and simple solution to digital writing and publishing.
+
+We are a team of two, building an open source book format along with a toolchain of simple but powerful tools built around the format.
+
+The philosophy is to be simple to the point of elegance, removing distractions and concerns from authors, so that they can write freely.
+
+GitBook.com lets you write, publish and manage your books online as a service. Since May 2014, we have helped authors, scientists and politicians publish more than 6700 books.
