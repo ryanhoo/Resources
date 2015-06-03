@@ -61,6 +61,7 @@
 	- [跳出面向对象思想(一) 继承](http://casatwy.com/tiao-chu-mian-xiang-dui-xiang-si-xiang-yi-ji-cheng.html)
 	- [跳出面向对象思想(二) 多态](http://casatwy.com/tiao-chu-mian-xiang-dui-xiang-si-xiang-er-duo-tai.html)
 - [iOS 中的设计模式 (Swift版本) Part 2](http://blog.callmewhy.com/2015/03/01/introducing-ios-design-patterns-in-swift-part-2/?comefrom=http://blogread.cn/news/)
+- [JSPatch实现原理详解](http://blog.cnbang.net/tech/2808/)
 
 ## Recommended Blogs and Developers
 
