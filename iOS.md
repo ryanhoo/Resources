@@ -22,6 +22,10 @@
 - [UITableView优化技巧](http://longxdragon.github.io/2015/05/26/UITableView%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7/)
 - [iOS Autulayout 教程](http://www.jianshu.com/users/96a14318a4de/latest_articles)
 
+### InApp Purchase
+
+- [A Beginner’s Guide to In-App Purchase Programming in iOS 8](http://www.appcoda.com/presentation-controllers-tutorial/)
+
 ### Storyboard
 
 - [一个Demo展示Storyboard的强大](http://www.jianshu.com/p/fa0d833673be)
