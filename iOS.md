@@ -1,13 +1,19 @@
 # iOS Learning Resources
 
 - [Fundamentals](#fundamentals)
-  - [Text Kit](#text-kit)
-  - [UITableView](#uitableview)
-  - [Storyboard](#storyboard)
-  - [Xcode](#xcode)
+	- [Text Kit](#text-kit)
+	- [UITableView](#uitableview)
+	- [InApp Purchase](#inapp-purchase)
+	- [Storyboard](#storyboard)
+	- [Autolayout](#autolayout)
+	- [Reveal](#reveal)
+- [Swift](#swift)
+- [Xcode](#xcode)
 - [Collections](#collections)
+- [Advanced Readings](#advanced-readings)
 - [Recommended Blogs and Developers](#recommended-blogs-and-developers)
-  - [[王巍](http://onevcat.com/)](#王巍httponevcatcom)
+	- [[王巍](http://onevcat.com/)](#%E7%8E%8B%E5%B7%8Dhttponevcatcom)
+	- [[唐巧](http://blog.devtang.com/)](#%E5%94%90%E5%B7%A7httpblogdevtangcom)
 
 ## Fundamentals
 
@@ -72,3 +78,7 @@
 ### [王巍](http://onevcat.com/)
 
 微博 ID 『onevcat』，圈儿内人称喵神，知名 iOS/Unity 开发者，现居日本，就职于 LINE。喵神是 objc 中国项目发起人，开源过广受开发者喜爱的 Xcode 插件 VVDocumenter，主创或参与开发《姬骑士和最后的百龙战争》、《英雄 Slash》、《冒险谜题王国》以及《小熊推金币》等多款游戏，个人应用代表有《番茄工作法》(Pomodoro Do) 和《云端记账》(Our Money)。
+
+### [唐巧](http://blog.devtang.com/)
+
+资深iOS开发者和Blogger，曾开发有道云笔记、猿题库和粉笔网的iOS客户端。
