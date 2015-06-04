@@ -9,6 +9,7 @@
 
 - [安卓中的Model-View-Presenter模式介绍](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0425/2782.html)
 - [Instagram with Material Design concept is getting real - The Summary](http://frogermcs.github.io/Instagram-with-Material-Design-concept-is-getting-real-the-summary/)
+- [进入Material Design时代](http://www.androidchina.net/1381.html)
 
 ## Gradle
 
@@ -26,6 +27,7 @@ Easy to use package repository for GitHub. JitPack builds GitHub projects on dem
 
 ## Libraries
 
+- [Android酷炫实用的开源框架（UI框架）](http://www.androidchina.net/1992.html)
 - [Fresco](http://frescolib.org/)
 
 Fresco is a powerful system for displaying images in Android applications. It takes care of image loading and display so you don't have to. Fresco's image pipeline will load images from the network, local storage, or local resources. To save data and CPU, it has three levels of cache; two in memory and another in internal storage. Fresco's Drawees show a placeholder for you until the image has loaded and automatically show to the image when it arrives. When the image goes off-screen, it automatically releases its memory. Fresco supports Android 2.3 (Gingerbread) and later.
