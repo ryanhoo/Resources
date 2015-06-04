@@ -3,7 +3,8 @@
 - [Fundamentals](#fundamentals)
 	- [Text Kit](#text-kit)
 	- [UITableView](#uitableview)
-	- [How We Built Pull To Make Soup Animation](#how-we-built-pull-to-make-soup-animation)
+	- [Animation](#animation)
+	- [Core Image](#core-image)
 	- [InApp Purchase](#inapp-purchase)
 	- [Storyboard](#storyboard)
 	- [Autolayout](#autolayout)
@@ -32,6 +33,10 @@
 ### Animation
 
 - [How We Built Pull To Make Soup Animation](http://yalantis.com/blog/how-we-built-customizable-pull-to-refresh-pull-to-cook-soup-animation/)
+
+### Core Image
+
+- [Core Image 介绍](http://ios.jobbole.com/82003/)
 
 ### InApp Purchase
 
