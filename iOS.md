@@ -3,6 +3,7 @@
 - [Fundamentals](#fundamentals)
 	- [Text Kit](#text-kit)
 	- [UITableView](#uitableview)
+	- [How We Built Pull To Make Soup Animation](#how-we-built-pull-to-make-soup-animation)
 	- [InApp Purchase](#inapp-purchase)
 	- [Storyboard](#storyboard)
 	- [Autolayout](#autolayout)
@@ -27,6 +28,10 @@
 - [UITableView 优化 VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo)
 - [UITableView优化技巧](http://longxdragon.github.io/2015/05/26/UITableView%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7/)
 - [iOS Autulayout 教程](http://www.jianshu.com/users/96a14318a4de/latest_articles)
+
+### Animation
+
+- [How We Built Pull To Make Soup Animation](http://yalantis.com/blog/how-we-built-customizable-pull-to-refresh-pull-to-cook-soup-animation/)
 
 ### InApp Purchase
 
