@@ -59,6 +59,7 @@
 
 - [iOS Swift开发资源整理](http://blog.csdn.net/colouful987/article/details/46125113)
 - [Swift 中的 UIDynamics](http://www.cocoachina.com/swift/20150528/11948.html)
+- [Getting Started with Swift: A Brief Intro to the New Programming Language](http://www.appcoda.com/swift-programming-language-intro/)
 
 ## Xcode
 
