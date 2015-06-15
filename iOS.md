@@ -50,6 +50,7 @@
 
 - [Auto Layout 使用心得（一）—— 初体验](http://lvwenhan.com/ios/430.html)
 - [从此爱上iOS Autolayout](http://segmentfault.com/a/1190000000646452?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
+- [Auto Layout 使用心得系列](http://lvwenhan.com/ios/430.html)
 
 ### Reveal
 
