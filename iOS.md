@@ -71,6 +71,7 @@
 ## Collections
 
 - [几个iOS工程通用模块介绍](http://www.jianshu.com/p/35ae342c60f6)
+- [Introducing the iOS 7 Feast](http://www.raywenderlich.com/49762/introducing-the-ios-7-feast)
 
 ## Advanced Readings
 
