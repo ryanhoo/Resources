@@ -10,6 +10,8 @@
 - [安卓中的Model-View-Presenter模式介绍](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0425/2782.html)
 - [Instagram with Material Design concept is getting real - The Summary](http://frogermcs.github.io/Instagram-with-Material-Design-concept-is-getting-real-the-summary/)
 - [进入Material Design时代](http://www.androidchina.net/1381.html)
+- [Architecting Android…The clean way?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+- [A useful stack on android #1, architecture](http://saulmm.github.io/2015/02/02/A%20useful%20stack%20on%20android%20%231,%20architecture/)
 
 ## Gradle
 
