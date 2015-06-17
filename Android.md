@@ -12,6 +12,7 @@
 - [进入Material Design时代](http://www.androidchina.net/1381.html)
 - [Architecting Android…The clean way?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 - [A useful stack on android #1, architecture](http://saulmm.github.io/2015/02/02/A%20useful%20stack%20on%20android%20%231,%20architecture/)
+- [Android 中 EventBus 的使用（1）：为什么要使用 EventBus](http://android.jobbole.com/81098/)
 
 ## Gradle
 
