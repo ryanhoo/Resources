@@ -8,6 +8,7 @@
 	- [InApp Purchase](#inapp-purchase)
 	- [Storyboard](#storyboard)
 	- [Autolayout](#autolayout)
+	- [Push](#push)
 	- [Reveal](#reveal)
 - [Swift](#swift)
 - [Xcode](#xcode)
@@ -51,6 +52,11 @@
 - [Auto Layout 使用心得（一）—— 初体验](http://lvwenhan.com/ios/430.html)
 - [从此爱上iOS Autolayout](http://segmentfault.com/a/1190000000646452?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 - [Auto Layout 使用心得系列](http://lvwenhan.com/ios/430.html)
+
+### Push
+
+- [Ready for iOS 8? So is Parse Push](http://blog.parse.com/learn/ready-for-ios-8-so-is-parse-push/)
+- [iOS 8 New Feature Roundup](http://docs.urbanairship.com/whats-new/september-2014-release.html)
 
 ### Reveal
 
