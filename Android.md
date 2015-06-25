@@ -1,6 +1,7 @@
 # Android Learning Resources
 
 - [Readings](#readings)
+- [Material Design](#material-design)
 - [Gradle](#gradle)
 - [Publishing](#publishing)
 - [Libraries](#libraries)
@@ -14,6 +15,15 @@
 - [A useful stack on android #1, architecture](http://saulmm.github.io/2015/02/02/A%20useful%20stack%20on%20android%20%231,%20architecture/)
 - [Android 中 EventBus 的使用（1）：为什么要使用 EventBus](http://android.jobbole.com/81098/)
 - [Google Code Labs - Unit and UI Testing in Android Studio](https://io2015codelabs.appspot.com/codelabs/android-studio-testing#8)
+
+## Material Design
+
+- [Material Design Docs](http://www.google.com/design/spec/material-design/introduction.html)
+- [Material Design for Android](http://developer.android.com/design/material/index.html)
+- [Material Design for Developers](http://developer.android.com/training/material/index.html)
+- [Best Practices for User Interface](http://developer.android.com/training/best-ui.html)
+- [Device Metrics](https://www.google.com/design/tool/devices/)
+- [Instagram with Material Design concept is getting real](http://frogermcs.github.io/Instagram-with-Material-Design-concept-is-getting-real/)
 
 ## Gradle
 
