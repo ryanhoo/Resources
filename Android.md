@@ -24,6 +24,7 @@
 - [Best Practices for User Interface](http://developer.android.com/training/best-ui.html)
 - [Device Metrics](https://www.google.com/design/tool/devices/)
 - [Instagram with Material Design concept is getting real](http://frogermcs.github.io/Instagram-with-Material-Design-concept-is-getting-real/)
+- [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html)
 
 ## Gradle
 
