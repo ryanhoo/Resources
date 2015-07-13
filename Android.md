@@ -40,6 +40,8 @@ Easy to use package repository for GitHub. JitPack builds GitHub projects on dem
 
 - [使用Gradle发布Android开源项目到JCenter](http://blog.csdn.net/maosidiaoxian/article/details/43148643)
 
+- [如何使用Android Studio把自己的Android library分发到jCenter和Maven Central](http://www.devtf.cn/?p=760)
+
 ## Libraries
 
 - [Android酷炫实用的开源框架（UI框架）](http://www.androidchina.net/1992.html)
