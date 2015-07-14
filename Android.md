@@ -15,6 +15,7 @@
 - [A useful stack on android #1, architecture](http://saulmm.github.io/2015/02/02/A%20useful%20stack%20on%20android%20%231,%20architecture/)
 - [Android 中 EventBus 的使用（1）：为什么要使用 EventBus](http://android.jobbole.com/81098/)
 - [Google Code Labs - Unit and UI Testing in Android Studio](https://io2015codelabs.appspot.com/codelabs/android-studio-testing#8)
+- [DynamicLoadApk 源码解析](http://www.codekk.com/open-source-project-analysis/detail/Android/FFish/DynamicLoadApk%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
 
 ## Material Design
 
