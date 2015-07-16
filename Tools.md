@@ -28,3 +28,7 @@ GitBook.com lets you write, publish and manage your books online as a service. S
 - [UI OH MY](http://uiohmy.com/)
 
 UI OH MY compares iPhone and Android app screens side by side.
+
+- [fastlane](https://fastlane.tools/)
+
+fastlane lets you define and run your deployment pipelines for different environments. It helps you unify your app’s release process and automate the whole process. fastlane connects all fastlane tools and third party tools, like CocoaPods and xctool.
