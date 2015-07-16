@@ -17,6 +17,7 @@
 - [Google Code Labs - Unit and UI Testing in Android Studio](https://io2015codelabs.appspot.com/codelabs/android-studio-testing#8)
 - [DynamicLoadApk 源码解析](http://www.codekk.com/open-source-project-analysis/detail/Android/FFish/DynamicLoadApk%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
 - [Android UI 自动化测试](http://www.devtf.cn/?p=890)
+- [Exploring the new Android Permissions Model](https://medium.com/ribot-labs/exploring-the-new-android-permissions-model-ba1d5d6c0610)
 
 ## Material Design
 
