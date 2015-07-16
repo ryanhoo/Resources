@@ -29,6 +29,7 @@
 - [Device Metrics](https://www.google.com/design/tool/devices/)
 - [Instagram with Material Design concept is getting real](http://frogermcs.github.io/Instagram-with-Material-Design-concept-is-getting-real/)
 - [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html)
+- [Exploring the new Android Design Support Library](https://medium.com/ribot-labs/exploring-the-new-android-design-support-library-b7cda56d2c32)
 
 ## Gradle
 
