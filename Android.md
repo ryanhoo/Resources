@@ -18,6 +18,7 @@
 - [DynamicLoadApk 源码解析](http://www.codekk.com/open-source-project-analysis/detail/Android/FFish/DynamicLoadApk%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
 - [Android UI 自动化测试](http://www.devtf.cn/?p=890)
 - [Exploring the new Android Permissions Model](https://medium.com/ribot-labs/exploring-the-new-android-permissions-model-ba1d5d6c0610)
+- [Android代码内存优化建议-OnTrimMemory优化](http://androidperformance.com/2015/07/20/Android%E4%BB%A3%E7%A0%81%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96%E5%BB%BA%E8%AE%AE-OnTrimMemory%E4%BC%98%E5%8C%96/)
 
 ## Material Design
 
