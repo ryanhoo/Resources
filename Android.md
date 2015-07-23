@@ -32,6 +32,7 @@
 - [Instagram with Material Design concept is getting real](http://frogermcs.github.io/Instagram-with-Material-Design-concept-is-getting-real/)
 - [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html)
 - [Exploring the new Android Design Support Library](https://medium.com/ribot-labs/exploring-the-new-android-design-support-library-b7cda56d2c32)
+- [InstaMaterial概念设计第二部分-评论界面的过度动画](http://www.devtf.cn/?p=921)
 
 ## Gradle
 
