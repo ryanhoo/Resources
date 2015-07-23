@@ -93,6 +93,7 @@
 - [iOS 中的设计模式 (Swift版本) Part 2](http://blog.callmewhy.com/2015/03/01/introducing-ios-design-patterns-in-swift-part-2/?comefrom=http://blogread.cn/news/)
 - [JSPatch实现原理详解](http://blog.cnbang.net/tech/2808/)
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com/)
+- [iOS应用程序的生命周期](http://www.jianshu.com/p/aa50e5350852)
 
 ## Recommended Blogs and Developers
 
