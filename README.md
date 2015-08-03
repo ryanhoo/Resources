@@ -19,6 +19,7 @@ These are learning resources to be handled.
 - [Shell（一）：功能、配置和插件](http://www.jianshu.com/p/f51b178237c8)
 - [iOS 与 Android 生命周期对比](http://www.cocoachina.com/ios/20150724/12681.html)
 - [Introduction to HTTP](http://www.gotealeaf.com/books/http)
+- [Tealeaf Academy HTTP](http://www.gotealeaf.com/books/http/read/background#briefhistory)
 
 ## Design & UI/X
 
