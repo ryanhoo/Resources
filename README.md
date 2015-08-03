@@ -19,3 +19,8 @@ These are learning resources to be handled.
 - [Shell（一）：功能、配置和插件](http://www.jianshu.com/p/f51b178237c8)
 - [iOS 与 Android 生命周期对比](http://www.cocoachina.com/ios/20150724/12681.html)
 - [Introduction to HTTP](http://www.gotealeaf.com/books/http)
+
+## Design & UI/X
+
+- [Sketch Tutorial](https://medium.com/google-design/sketch-tutorial_01-b76271a095e3)
+- [用动效UI，高效向用户展示你的app功能](http://mp.weixin.qq.com/s?__biz=MzAwNjM0MzIzNA==&mid=208949331&idx=1&sn=5992f14851bacb79133657b8be6ee598#rd)
