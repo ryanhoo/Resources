@@ -55,6 +55,7 @@ Easy to use package repository for GitHub. JitPack builds GitHub projects on dem
 
 ## Libraries
 
+- [CODEPATH Must Have Libraries](https://guides.codepath.com/android/Must-Have-Libraries#recyclerview)
 - [Android酷炫实用的开源框架（UI框架）](http://www.androidchina.net/1992.html)
 - [Fresco](http://frescolib.org/)
 
