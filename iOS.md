@@ -94,6 +94,7 @@
 - [JSPatch实现原理详解](http://blog.cnbang.net/tech/2808/)
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com/)
 - [iOS应用程序的生命周期](http://www.jianshu.com/p/aa50e5350852)
+- [不要用子类！Swift的核心是面向协议](http://www.cocoachina.com/swift/20150803/12881.html)
 
 ## Recommended Blogs and Developers
 
