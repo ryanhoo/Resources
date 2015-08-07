@@ -24,6 +24,7 @@
 - [Android APK加固技术方案调研](http://www.jianshu.com/p/856bf5b437aa)
 - [使用Android lint发现并解决高版本API问题](http://droidyue.com/blog/2015/07/25/use-android-lint-to-find-higher-api-usage/)
 - [Android development: What I wish I had known earlier](http://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
+- [Don't Store Data in the Application Object](http://www.developerphil.com/dont-store-data-in-the-application-object/)
 
 ## Material Design
 
