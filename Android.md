@@ -26,6 +26,8 @@
 - [Android development: What I wish I had known earlier](http://balpha.de/2013/07/android-development-what-i-wish-i-had-known-earlier/)
 - [Don't Store Data in the Application Object](http://www.developerphil.com/dont-store-data-in-the-application-object/)
 - [Building a RecyclerView LayoutManager – Part 1](http://wiresareobsolete.com/2014/09/building-a-recyclerview-layoutmanager-part-1/)
+- [Android: Difference between onInterceptTouchEvent and dispatchTouchEvent?](http://stackoverflow.com/questions/9586032/android-difference-between-onintercepttouchevent-and-dispatchtouchevent)
+- [Mastering the Android Touch System](https://www.youtube.com/watch?v=EZAoJU-nUyI)
 
 ## Material Design
 
