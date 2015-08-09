@@ -28,6 +28,7 @@
 - [Building a RecyclerView LayoutManager – Part 1](http://wiresareobsolete.com/2014/09/building-a-recyclerview-layoutmanager-part-1/)
 - [Android: Difference between onInterceptTouchEvent and dispatchTouchEvent?](http://stackoverflow.com/questions/9586032/android-difference-between-onintercepttouchevent-and-dispatchtouchevent)
 - [Mastering the Android Touch System](https://www.youtube.com/watch?v=EZAoJU-nUyI)
+- [CodePath: Understanding Touch Events](https://github.com/codepath/android_guides/wiki/Gestures-and-Touch-Events#understanding-touch-events)
 
 ## Material Design
 
