@@ -95,6 +95,7 @@
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com/)
 - [iOS应用程序的生命周期](http://www.jianshu.com/p/aa50e5350852)
 - [不要用子类！Swift的核心是面向协议](http://www.cocoachina.com/swift/20150803/12881.html)
+- [关于iOS多线程，你看我就够了](http://www.cocoachina.com/ios/20150731/12819.html)
 
 ## Recommended Blogs and Developers
 
