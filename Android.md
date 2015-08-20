@@ -69,3 +69,7 @@ Easy to use package repository for GitHub. JitPack builds GitHub projects on dem
 Fresco is a powerful system for displaying images in Android applications. It takes care of image loading and display so you don't have to. Fresco's image pipeline will load images from the network, local storage, or local resources. To save data and CPU, it has three levels of cache; two in memory and another in internal storage. Fresco's Drawees show a placeholder for you until the image has loaded and automatically show to the image when it arrives. When the image goes off-screen, it automatically releases its memory. Fresco supports Android 2.3 (Gingerbread) and later.
 
 	- [Introducing Fresco: A new image library for Android](https://code.facebook.com/posts/366199913563917)
+
+## Recommended Blogs and Developers
+
+- [Android大神](http://yeungeek.com/android%E5%A4%A7%E7%A5%9E)
