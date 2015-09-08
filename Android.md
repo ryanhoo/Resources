@@ -29,6 +29,7 @@
 - [Android: Difference between onInterceptTouchEvent and dispatchTouchEvent?](http://stackoverflow.com/questions/9586032/android-difference-between-onintercepttouchevent-and-dispatchtouchevent)
 - [Mastering the Android Touch System](https://www.youtube.com/watch?v=EZAoJU-nUyI)
 - [CodePath: Understanding Touch Events](https://github.com/codepath/android_guides/wiki/Gestures-and-Touch-Events#understanding-touch-events)
+- [深入讲解Android中Activity launchMode](http://droidyue.com/blog/2015/08/16/dive-into-android-activity-launchmode/#0-tsina-1-70893-397232819ff9a47a7b7e80a40613cfe1)
 
 ## Material Design
 
