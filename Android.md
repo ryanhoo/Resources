@@ -31,6 +31,7 @@
 - [CodePath: Understanding Touch Events](https://github.com/codepath/android_guides/wiki/Gestures-and-Touch-Events#understanding-touch-events)
 - [深入讲解Android中Activity launchMode](http://droidyue.com/blog/2015/08/16/dive-into-android-activity-launchmode/#0-tsina-1-70893-397232819ff9a47a7b7e80a40613cfe1)
 - [Android项目中如何用好构建神器Gradle？](http://www.csdn.net/article/2015-08-10/2825420)
+- [完全理解Gson（1）：简单入门](http://www.importnew.com/16630.html)
 
 ## Material Design
 
