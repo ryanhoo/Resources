@@ -47,6 +47,7 @@
 - [Exploring the new Android Design Support Library](https://medium.com/ribot-labs/exploring-the-new-android-design-support-library-b7cda56d2c32)
 - [InstaMaterial概念设计第二部分-评论界面的过度动画](http://www.devtf.cn/?p=921)
 - [【原创】移动端高清、多屏适配方案](http://www.html-js.com/article/3041)
+- [Chrome custom tabs：在浏览器与本地应用之间流畅的切换](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0914/3449.html)
 
 ## Gradle
 
