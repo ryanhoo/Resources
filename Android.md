@@ -33,6 +33,7 @@
 - [Android项目中如何用好构建神器Gradle？](http://www.csdn.net/article/2015-08-10/2825420)
 - [完全理解Gson（1）：简单入门](http://www.importnew.com/16630.html)
 - [Handler和他的小伙伴们（上）](http://www.jianshu.com/p/e04698eaba88)
+- [倍数提高工作效率的Android Studio奇技](http://www.kuqin.com/shuoit/20150909/347947.html)
 
 ## Material Design
 
